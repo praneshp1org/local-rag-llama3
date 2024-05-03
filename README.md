@@ -5,8 +5,8 @@
 ### Setup
 1. Clone the repo
 2. cd directory
-3: python3 -m venv myvenv
-4: source myvenv/bin/activate
+3. python3 -m venv myvenv
+4. source myvenv/bin/activate
 5. pip install -r requirements.txt
 6. Install Ollama (https://ollama.com/download)
 <!-- 5. run upload.py (pdf, .txt, JSON) -->
